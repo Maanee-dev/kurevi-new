@@ -9,6 +9,7 @@ import Portfolio from "./components/Portfolio";
 import Testimonials from "./components/Testimonials";
 import Pricing from "./components/Pricing";
 import Updates from "./components/Updates";
+import RequestMeeting from "./components/RequestMeeting";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
 import Chatbot from "./components/Chatbot";
@@ -40,6 +41,7 @@ export default function App() {
         <Testimonials />
         <Pricing />
         <Updates />
+        <RequestMeeting />
         <Contact />
       </main>
 
